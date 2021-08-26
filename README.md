@@ -50,13 +50,13 @@ Let's move on!
 Ok, this can be particular to understand. ',' is input and these square brackets means counts as control structures.
 If you noticed that this code takes input and then prints out the input given in a loop, then you are right.
 
-For people who still didn't understand how that code works, let's take it simple.
+For people who still don't understand how that code works, let's take it easy.
 All of this code takes place in **one element of the big array**, 
 that means that we can use the input given as a variable to print.
 
 The control structure here counts as a loop, so it's obvious it will repeat itself forever since no instructions are given.
 
 # Summary
-If you learnt all of this, then you fully understood the basics of SoulC, and you can say you learnt a programming language.
+If you learnt all of this, then you fully understood the basics of SoulC, and you can say you learnt an esoteric programming language.
 
 I can say just one thing now: **Enjoy the language!**
