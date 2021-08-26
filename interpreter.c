@@ -33,7 +33,7 @@ int interpret(FILE* file) {
         else if (c == 'd') memory[mem]--;
         else if (c == '[' && !memory[mem]) {
             int open = 1;
-            
+
             while(open){
                 if(++code==source_len) except(file,source,0);
                 if(source[code] == '[') open++;
@@ -48,7 +48,7 @@ int interpret(FILE* file) {
                 if(source[code] == '[') close--;
             }
         }else if (!(c=='\t' || c=='\n' || c==' ' || c=='q' || c=='p' || c=='[' || c==']')){
-            fprintf(stderr,"DA FUQ? (%c)\n",c);
+            fprintf(stderr,"This doesn't even exist: %c \n",c);
             except(file,source,1);
         }
         code++;
