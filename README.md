@@ -5,7 +5,7 @@ I thought I could create a new esoteric programming language similar to brainfuc
 ![SoulC](https://user-images.githubusercontent.com/68974876/130805678-5868d748-4d36-4f00-8261-95478d273c9c.png)
 
 As said before, SoulC is similar to Brainfuck but with some differences. 
-Don't know Brainfuck but you still want to program in SoulC? It's okay, I prepared a documentation on the language with 
+Don't know Brainfuck but you still want to program in SoulC? It's okay, I prepared a documentation of the language with 
 some examples to make it easier to understand (it's an esoteric programming language :D)
 
 # Documentation:
